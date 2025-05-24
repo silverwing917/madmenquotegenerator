@@ -1,2 +1,3 @@
-# madmenquotegenerator
-random quote generator from the TV show 'Mad Men'
+# A program that randomly generates quotes from the TV show 'Mad Men'
+
+
